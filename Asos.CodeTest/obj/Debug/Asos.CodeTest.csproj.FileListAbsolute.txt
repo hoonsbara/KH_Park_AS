@@ -1,0 +1,5 @@
+C:\Users\Joel\Desktop\Lead Engineer Code Test\Lead Engineer Code Test\ASOS Lead Engineer Code Test\Asos.CodeTest\Asos.CodeTest\obj\Debug\Asos.CodeTest.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Lead Engineer Code Test\Lead Engineer Code Test\ASOS Lead Engineer Code Test\Asos.CodeTest\Asos.CodeTest\bin\Debug\Asos.CodeTest.dll
+C:\Users\Joel\Desktop\Lead Engineer Code Test\Lead Engineer Code Test\ASOS Lead Engineer Code Test\Asos.CodeTest\Asos.CodeTest\bin\Debug\Asos.CodeTest.pdb
+C:\Users\Joel\Desktop\Lead Engineer Code Test\Lead Engineer Code Test\ASOS Lead Engineer Code Test\Asos.CodeTest\Asos.CodeTest\obj\Debug\Asos.CodeTest.dll
+C:\Users\Joel\Desktop\Lead Engineer Code Test\Lead Engineer Code Test\ASOS Lead Engineer Code Test\Asos.CodeTest\Asos.CodeTest\obj\Debug\Asos.CodeTest.pdb
